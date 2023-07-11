@@ -1,0 +1,1895 @@
+
+<!DOCTYPE html>
+    <!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+    <!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+    <!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+    <!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+        <head>
+                <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="expires" content="Tue, 18 Jul 2023 09:57:38 +0200">
+        <meta name="apple-itunes-app" content="app-id=id1640229273, app-argument=https://apps.apple.com/app/hola-barcelona/id1640229273"> 
+        <link rel="manifest" href="/manifest.webmanifest">
+        <title>
+                                                            
+    Hola Barcelona Travel Card | Hola Barcelona
+</title>
+        
+                                                                                                                                        <meta name="description" content="10% off the cost of the Hola Barcelona Travel Card! Unlimited travel on public transport (2, 3, 4 or 5 days). Travel to Barcelona-El Prat airport included." />
+            <meta name="keywords" content="hola bcn, hola bcn card, bcn card, hola bcn 2 days, hola bcn 3 days, hola bcn 4 days, hola bcn 5 days, Barcelona travel card, Barcelona travel pass, Barcelona metro card, Barcelona transport card, Barcelona tourist card, Barcelona card, Barcelona city card" />
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                                                                                                                                                                                        <link rel="alternate" hreflang="ca" href="/ca/tickets/hola-bcn-barcelona-travel-card" />
+                                                                                                                                                                            <link rel="alternate" hreflang="de" href="/de/tickets/hola-bcn-barcelona-travel-card" />
+                                                                                                                                                                <meta id="enlace_en" data-enlace="/tickets/hola-bcn-barcelona-travel-card">
+                                        <link rel="canonical" href="/tickets/hola-bcn-barcelona-travel-card" />
+                                                                                                                                                                            <link rel="alternate" hreflang="es" href="/es/tickets/hola-bcn-barcelona-travel-card" />
+                                                                                                                                                                            <link rel="alternate" hreflang="fr" href="/fr/tickets/hola-bcn-barcelone-travel-card" />
+                                                                                                                                                                            <link rel="alternate" hreflang="it" href="/it/tickets/hola-bcn-barcellona-travel-card" />
+                            <link rel="shortcut icon" href="/bundles/tmbtemplate/img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/bundles/tmbtemplate/img/favicon.ico" type="image/x-icon">
+                 
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js"
+            data-cbid="3308fd31-9528-4533-8868-f49c0ed16ac0" 
+            data-blockingmode="auto" 
+            type="text/javascript">
+        </script>
+
+        <script src="/bundles/tmbtemplate/js/vendor/modernizr/modernizr.js"></script>
+        <!-- Android APP BAnner -->
+        <script>
+            window.addEventListener('beforeinstallprompt', (e) => {
+            // Prevent Chrome 67 and earlier from automatically showing the prompt
+            e.preventDefault();
+            // Stash the event so it can be triggered later.
+            deferredPrompt = e;
+            // Update UI notify the user they can add to home screen
+            btnAdd.style.display = 'block';
+            });
+        </script>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f
+        );
+        })(window,document,'script','dataLayer','GTM-WVNWF8V');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f
+        );
+        })(window,document,'script','dataLayer','GTM-KVSFW3C');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '105980210310077');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none"
+                       src="https://www.facebook.com/tr?id=105980210310077&ev=PageView&noscript=1"
+            />
+        </noscript>
+                    <link rel="stylesheet" href="/bundles/tmbtemplate/js/vendor/selectbox/jquery.selectBox.css">
+    <link rel="stylesheet" href="/bundles/tmbtemplate/js/vendor/bootstrap-datepicker-new/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="/bundles/tmbtemplate/js/vendor/bootstrap-datepicker-new/css/bootstrap-datepicker.standalone.min.css">
+    <!-- charming +100; chambo: >= 1000; -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/Respond-master/dest/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/bundles/tmbtemplate/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bundles/tmbtemplate/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/bundles/tmbtemplate/css/style.min.css?v2.13.1">
+
+                <!-- Estilo nuevo template pagina faq -->
+    <link rel="stylesheet" href="/bundles/tmbtemplate/css/widget_style_min.css?v2.13.1">
+
+        <style>
+  .nav-item>a {
+    text-decoration: none;
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    color: #000;
+  }
+  .productos-tmb-detail .detail{
+    display: none;
+  }
+  .desde {
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.11px;
+    color: #000;
+  }
+  .preciosd{
+    margin-top: 11px;
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: 0.15px;
+    color: #d9027d;
+    text-decoration: line-through;
+  }
+  .preciocd{
+    margin-top: 2px;
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000;
+  }
+  .descripcion{
+    max-width: 270px;
+    max-height: 154px;
+    margin-top: 21px;
+    margin-bottom: 41px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.5px;
+    color: #282828;
+  }
+
+  /*Lang nav*/
+  li.lang .dropdown-item{
+    text-decoration: none;
+  }
+  li.lang .dropdown-item:hover,
+  li.lang .dropdown-item:active,
+  li.lang .dropdown-item:focus{
+    color: #000!important;
+    background-color: #efefef!important;
+  }
+  .globe-text{
+    float: left;
+    display: block;
+    line-height: 22px;
+    margin-left: 7px;
+  }
+
+</style>    <style>
+    body{
+
+        background-color: #fbfbfb;
+    }
+  /*** SLIDER ***/
+  .top-content{
+      max-width: 1366px;
+      padding: 0 97px;
+      margin: 0 auto 89px auto;
+  }
+
+  #carousel-example-related .carousel-item img{
+    max-width: 100%;
+    background:#000;
+  }
+
+  #carousel-example-related .carousel-item{
+    padding-right: 7px;
+  }
+
+  #carousel-example-related .clearfix {
+    overflow: hidden;
+    zoom: 1;
+  }
+
+  #carousel-example-related .carousel-control-next {
+    width: 50px;
+    position: absolute;
+    right: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  #carousel-example-related .carousel-control-prev {
+    width: 50px;
+    position: absolute;
+    left: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  
+  #carousel-example-related .carousel-control-prev-icon,
+  #carousel-example-related .carousel-control-next-icon{
+    background-color: #fff;
+    opacity: 1;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 50px!important;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #229fff;
+    box-shadow: 0 2px 4px 0 rgb(205 205 205 / 50%);
+  }
+
+  #carousel-example-related .img-bg{
+    height: 298px;
+  }
+  /*** End slider ***/
+
+
+.slider-shadow{
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(87, 87, 87, 0.33) 40%, rgba(0, 0, 0, 0.6) 75%);
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.carousel-caption{
+    text-align: left;
+}
+.product-detail-content{
+    background-color: #fff;
+    padding-bottom: 0px;
+}
+.related-title {
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 70px;
+}
+#more {display: none;}
+.summary-des {display: block;}
+.summary-mob {display: none;}
+
+
+/*
+    code by Iatek LLC 2018 - CC 2.0 License - Attribution required
+    code customized by Azmind.com
+*/
+@media (min-width: 768px) and (max-width: 992px) {
+    /* Show 4th slide on md if col-md-4*/
+    #carousel-example-related .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -33.3333%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+    /* Show 3rd slide on sm if col-sm-6*/
+    #carousel-example-related .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -50%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) {
+    #carousel-example-related .carousel-item {
+        margin-right: 0;
+    }
+    /* show 2 items */
+    #carousel-example-related .carousel-inner .active + .carousel-item {
+        display: block;
+    }
+    #carousel-example-related .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    #carousel-example-related .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item {
+        transition: none;
+    }
+    #carousel-example-related .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    #carousel-example-related .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    #carousel-example-related .carousel-item-next.carousel-item-left + .carousel-item,
+    #carousel-example-related .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* farthest right hidden item must be also positioned for animations */
+    #carousel-example-related .carousel-inner .carousel-item-prev.carousel-item-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* right or prev direction */
+    #carousel-example-related .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    #carousel-example-related .carousel-item-prev.carousel-item-right + .carousel-item,
+    #carousel-example-related .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* MD */
+@media (min-width: 768px) {
+    /* show 3rd of 3 item slide */
+    #carousel-example-related .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;
+    }
+    #carousel-example-related .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    #carousel-example-related .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    #carousel-example-related .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction */
+    #carousel-example-related .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (max-width: 992px) {
+.summary-des {display: none;}
+.summary-mob {display: block;}
+.top-content{ padding: 0!important;}
+}
+
+
+
+</style>    <style>
+
+  .promo_app {
+    margin-top: 50px;
+    max-width: 1366px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fbfbfb;
+  }
+
+  .col-app-container {
+    background-color: #fbfbfb;
+    padding-bottom: 36px;
+  }
+
+  .promo_app_title {
+    padding-top: 90px;
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #000;
+    margin-bottom: 30px;
+  }
+  .promo_app_description{
+    opacity: 0.87;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    color: #000;
+    margin-bottom: 50px;
+  }
+  .promo-app-img-background{
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 31px;
+    margin-bottom: 80px;
+  }
+  .promo-app-img-front{
+    max-width: 47%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 73px;
+  }
+  
+  @media (max-width: 992px) {
+    .promo-app-img-background{
+      margin-bottom: 120px;
+    }
+    .promo_app_title {
+      padding-top: 0px;
+      font-size: 24px;
+    }
+
+  }
+
+</style>    <style>
+</style>    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">        <!-- End Facebook Pixel Code -->        
+    </head>
+    <body                          >
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVSFW3C"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+            <div style="display:none">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVNWF8V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <!-- /********* TWITTER TRACK **************/ -->
+        <script src="//platform.twitter.com/oct.js" type="text/javascript">
+            twttr.conversion.trackPid('l6dvs', {tw_sale_amount: 0, tw_order_quantity: 0 });
+        </script>
+
+        <noscript>
+            <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6dvs&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+
+            <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6dvs&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+        </noscript>
+        <!-- /********* END TWITTER TRACK **************/ -->
+    </div>
+                                        <div class="grid message-grid">
+    <div class="col-1-1">
+
+
+
+
+    </div>
+</div>
+        
+
+            
+
+<!--Promocio especial -->
+
+  <div class="promo-container">
+    <section class="head">
+      <!-- top alert -->
+      <div id="top-alert">
+        <span class="float-left d-inline-block"></span>
+        <span class="center d-inline-block">With Hola Barcelona enjoy from a 10% discount on all our products!</span>
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="javascript:hidePromo()" >&times;</button>
+      </div>
+    </section>
+  </div>
+                      
+ <div class="container-fluid head-container">
+  <section class="head">
+ 
+ <!-- menu -->
+        <div class="row row-container-nav">
+          <div class="col-xl-12 col-md-12 container nav">
+            <a class="navbar-brand" href="/"><img src="/bundles/tmbtemplate/img/logo.jpg" alt=""></a>
+            <nav class="navbar navbar-expand-lg navbar-light main bg-light">
+              <!-- cart button mobile display -->
+              <div class="cart-mobile">
+                <!-- menu-item -->
+                <div class="nav-item short-item cart">
+                  <button class="btn btn-sm" type="button" data-toggle="modal" data-target="#modal-cart">
+                    <div class="cart-ico">
+                                          </div>
+                  </button>
+                </div>
+              </div>
+              <!-- cart button mobile display -->
+              <div class="">
+                <button class="navbar-toggler navbar-toggler-right collapsed" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+                <span> </span>
+                <span> </span>
+                <span> </span>
+            </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav">
+                    <!-- menu-item -->
+                    <li class="nav-item dropdown position-static tickets">
+                      <div class="nav-link dropdown-toggle" data-toggle="dropdown" href="/buy-tickets"  role="button">Tickets</div>
+                      <div id="navbarDropdown" ></div>
+                    </li>
+                    <!-- menu-item -->
+                    <li class="nav-item mouret">
+                      <a class="nav-link" href="/get-around-with-hola-barcelona">How to get around?</a>
+                    </li>
+                    <!-- menu-item -->
+                    <!--
+                    <li class="nav-item recomanador">
+                      <a class="nav-link" href="#">Recomanador</a>
+                    </li>
+                    -->
+                    <!-- menu-item -->
+                    <li class="nav-item blog">
+                      <a class="nav-link" rel='nofollow' target='_blank' href="https://blog.holabarcelona.com/en">Blog</a>
+                    </li>
+                    <!-- menu-item -->
+                    <li class="nav-item app">
+                      <a class="nav-link" href="/hola-barcelona-app">App</a>
+                    </li>
+                    <!-- menu-item -->
+                    <li class="nav-item lang"> <div class="dropdown select-lang"> <a class="dropdown-toggle" data-toggle="dropdown"> <span class="globe-ico"></span> <span class="globe-text" >English </span> </a> <div class="dropdown-menu dropdown-lang" aria-labelledby="dropdownMenuButton"> <a class="dropdown-item" href="/ca/tickets/hola-bcn-barcelona-travel-card" hreflang="ca" > Català </a> <a class="dropdown-item" href="/de/tickets/hola-bcn-barcelona-travel-card" hreflang="de" > Deutsch </a> <a class="dropdown-item" href="/tickets/hola-bcn-barcelona-travel-card" hreflang="en" class="active" > English </a> <a class="dropdown-item" href="/es/tickets/hola-bcn-barcelona-travel-card" hreflang="es" > Español </a> <a class="dropdown-item" href="/fr/tickets/hola-bcn-barcelone-travel-card" hreflang="fr" > Français </a> <a class="dropdown-item" href="/it/tickets/hola-bcn-barcellona-travel-card" hreflang="it" > Italiano </a> </div> </div></li>  
+                    <!-- menu-item -->
+                    <!--
+                    <li class="nav-item short-item searcher">
+                      <button class="btn btn-sm" type="button">
+                        <i class="fas fa-search"></i>
+                      </button>
+                    </li> 
+                    -->
+                    <!-- menu-item -->
+                    <li class="nav-item short-item cart">
+                      <button class="btn btn-sm" type="button" data-toggle="modal" data-target="#modal-cart">
+                        <div class="cart-ico">
+                                                  </div>
+                      </button>
+                    </li> 
+                  </ul>
+                </div>
+              </div>
+            </nav>
+                    </div>
+          <!-- desplegable menu tickets  -->
+           <ul class="dropdown-tickets dropdown-menu megamenu"> <div class="container"> <div class="row"> <div class="col-xl-4 link-productos-hover"> <ul class="productos-tmb"> <li class="li-product-hover" > <a class="producto-hover comprar_menu_hola-bcn-barcelona-travel-card menu_event_buy" data-n = "hola" data-s = "hola" data-p = "14.76" data-i = "1" data-c = "hola" href="/tickets/hola-bcn-barcelona-travel-card" data-pos="1" data-id="hola" data-name="hola" data-category="hola" data-index="1" id ="product-1" onmouseover="showProductDetail('1')" >Hola Barcelona Travel Card </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_cable-car-montjuic-barcelona menu_event_buy" data-n = "teleferic" data-s = "teleferic" data-p = "9.90" data-i = "2" data-c = "teleferic" href="/tickets/cable-car-montjuic-barcelona" data-pos="2" data-id="teleferic" data-name="teleferic" data-category="teleferic" data-index="2" id ="product-2" onmouseover="showProductDetail('2')" >Montjuïc Cable Car </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_barcelona-hop-on-hop-off-bus-tour menu_event_buy" data-n = "bbt" data-s = "bbt" data-p = "16.20" data-i = "3" data-c = "bbt" href="/tickets/barcelona-hop-on-hop-off-bus-tour" data-pos="3" data-id="bbt" data-name="bbt" data-category="bbt" data-index="3" id ="product-3" onmouseover="showProductDetail('3')" >Hop on Hop off Barcelona </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_CBT menu_event_buy" data-n = "excursiones" data-s = "excursiones" data-p = "36.00" data-i = "4" data-c = "excursiones" href="/tickets/tours-from-barcelona" data-pos="4" data-id="excursiones" data-name="excursiones" data-category="excursiones" data-index="4" id ="product-4" onmouseover="showProductDetail('4')" >Tours from Barcelona </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_pack menu_event_buy" data-n = "packs" data-s = "packs" data-p = "23.29" data-i = "5" data-c = "packs" href="/transport-deals" data-pos="5" data-id="packs" data-name="packs" data-category="packs" data-index="5" id ="product-5" onmouseover="showProductDetail('5')" >Transport deals </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_barcelona-night-tour-bus menu_event_buy" data-n = "nighttour" data-s = "nighttour" data-p = "10.00" data-i = "6" data-c = "nighttour" href="/tickets/barcelona-night-tour-bus" data-pos="6" data-id="nighttour" data-name="nighttour" data-category="nighttour" data-index="6" id ="product-6" onmouseover="showProductDetail('6')" >Barcelona Night Tour Bus </a> </li> <li class="li-product-hover" > <a class="producto-hover comprar_menu_barcelona-christmas-tour menu_event_buy" data-n = "christmas" data-s = "christmas" data-p = "0.00" data-i = "7" data-c = "christmas" href="/tickets/barcelona-christmas-tour" data-pos="7" data-id="christmas" data-name="christmas" data-category="christmas" data-index="7" id ="product-7" onmouseover="showProductDetail('7')" >Barcelona Christmas Tour </a> </li> </ul> </div> <div class="col-xl-8 link-productos-detail" > <ul class="productos-tmb-detail"> <li class=""> <div class="container detail-1 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" alt="Hola Barcelona Travel Card" src="//pro.static.holabarcelona.com/images/1587/resize/275/406/5.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_hola-bcn-barcelona-travel-card menu_event_buy" data-pos="1" data-id="hola" data-name="hola" data-category="hola" data-index="1" data-n = "hola" data-s = "hola" data-p = "14.76" data-i = "1" data-c = "hola" href="/tickets/hola-bcn-barcelona-travel-card" id ="product-detail-1" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" >€16.40</div> <div class="preciocd" >€14.76</div> <div class="descripcion" >Enjoy unlimited travel on the public transport network in Barcelona for 2 days (48h), 3 days (72h), 4 days (96h) or 5 days (120h).</div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-2 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" alt="Montjuïc Cable Car" src="//pro.static.holabarcelona.com/images/1592/resize/275/406/5.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_cable-car-montjuic-barcelona menu_event_buy" data-pos="2" data-id="teleferic" data-name="teleferic" data-category="teleferic" data-index="2" data-n = "teleferic" data-s = "teleferic" data-p = "9.90" data-i = "2" data-c = "teleferic" href="/tickets/cable-car-montjuic-barcelona" id ="product-detail-2" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" >€11.00</div> <div class="preciocd" >€9.90</div> <div class="descripcion" >Hop on board the Montjuïc Cable Car and enjoy panoramic views of Barcelona from a privileged spot.</div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-3 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" alt="Hop on Hop off Barcelona" src="//pro.static.holabarcelona.com/images/1591/resize/275/406/5.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_barcelona-hop-on-hop-off-bus-tour menu_event_buy" data-pos="3" data-id="bbt" data-name="bbt" data-category="bbt" data-index="3" data-n = "bbt" data-s = "bbt" data-p = "16.20" data-i = "3" data-c = "bbt" href="/tickets/barcelona-hop-on-hop-off-bus-tour" id ="product-detail-3" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" >€18.00</div> <div class="preciocd" >€16.20</div> <div class="descripcion" >Discover Barcelona&#039;s most emblematic sights, touring the city&#039;s streets on the official sightseeing bus. </div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-4 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" src="/bundles/tmbtemplate/img/featured-home-blocks/tours-banner.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_CBT menu_event_buy" data-pos="4" data-id="excursiones" data-name="excursiones" data-category="excursiones" data-index="4" data-n = "excursiones" data-s = "excursiones" data-p = "36.00" data-i = "4" data-c = "excursiones" href="/tickets/tours-from-barcelona" id ="product-detail-4" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" >€40.00</div> <div class="preciocd" >€36.00</div> <div class="descripcion" >Trips from Barcelona to experience the mountain of Montserrat, the Theatre Museum of Dalí, the wine and cava culture, Girona and so much more!</div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-5 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" src="/bundles/tmbtemplate/img/featured-home-blocks/packs.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_pack menu_event_buy" data-pos="5" data-id="packs" data-name="packs" data-category="packs" data-index="5" data-n = "packs" data-s = "packs" data-p = "23.29" data-i = "5" data-c = "packs" href="/transport-deals" id ="product-detail-5" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" >€27.40</div> <div class="preciocd" >€23.29</div> <div class="descripcion" >Hola Barcelona transport deals provide you with the best combination of our services to get around Barcelona at its most cosmopolitan, at the best price and in the easiest, quickest and most comfortable way possible.</div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-6 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" alt="Barcelona Night Tour Bus" src="//pro.static.holabarcelona.com/images/1957/resize/275/406/5.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_barcelona-night-tour-bus menu_event_buy" data-pos="6" data-id="nighttour" data-name="nighttour" data-category="nighttour" data-index="6" data-n = "nighttour" data-s = "nighttour" data-p = "10.00" data-i = "6" data-c = "nighttour" href="/tickets/barcelona-night-tour-bus" id ="product-detail-6" > <div class="desde" > From </div> <div class="blank-line"></div> <div class="preciosd" ></div> <div class="preciocd" >€10.00</div> <div class="descripcion" >Experience summer nights in Barcelona with a tour of its most iconic sites from a different perspective.</div> </a> </div> </div> </div> </li> <li class=""> <div class="container detail-7 detail"> <div class="row"> <div class="col-md-6 img-productos"> <img class="img-bg" alt="Barcelona Christmas Tour" src="//pro.static.holabarcelona.com/images/1420/resize/275/406/5.jpg" /> </div> <div class="col-md-6 detail-productos"> <a class="comprar_menu_barcelona-christmas-tour menu_event_buy" data-pos="7" data-id="christmas" data-name="christmas" data-category="christmas" data-index="7" data-n = "christmas" data-s = "christmas" data-p = "0.00" data-i = "7" data-c = "christmas" href="/tickets/barcelona-christmas-tour" id ="product-detail-7" > <div class="desde" ><span class="not-availabe-menu" >Not available</span></div> <div class="preciosd" ></div> <div class="preciocd" ></div> <div class="descripcion" >Celebrate Christmas with a special tour to take in the festive atmosphere around the city’s streets.</div> </a> </div> </div> </div> </li> </ul> </div> </div> </div></ul><script> function dataLayerMenu() { console.log("dataLayerMenu"); /* Measures product impressions and also tracks a standard pageview for the tag configuration. Product impressions are sent by pushing an impressions object containing one or more impressionFieldObjects. */ dataLayer.push({ 'event': 'impressions', 'ecommerce': { 'currencyCode': 'EUR', 'impressions': [ { 'name': 'hola', 'id': 'hola', 'price': '14.76', 'list': 'menu', 'category': 'hola', 'position': '1' }, { 'name': 'teleferic', 'id': 'teleferic', 'price': '9.90', 'list': 'menu', 'category': 'teleferic', 'position': '2' }, { 'name': 'bbt', 'id': 'bbt', 'price': '16.20', 'list': 'menu', 'category': 'bbt', 'position': '3' }, { 'name': 'excursiones', 'id': 'excursiones', 'price': '36.00', 'list': 'menu', 'category': 'excursiones', 'position': '4' }, { 'name': 'packs', 'id': 'packs', 'price': '23.29', 'list': 'menu', 'category': 'packs', 'position': '5' }, { 'name': 'nighttour', 'id': 'nighttour', 'price': '10.00', 'list': 'menu', 'category': 'nighttour', 'position': '6' }, { 'name': 'christmas', 'id': 'christmas', 'price': '0.00', 'list': 'menu', 'category': 'christmas', 'position': '7' }, ] } }); }</script>          <!-- desplegable menu tickets  -->
+        </div>
+        <!-- menu -->
+        <!-- search-form -->
+        <div id="container-search-form" class="row">
+          <div class="search-form container">
+            <div class="row close-button">
+              <div class="col">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span>Tancar</span> &times;</button>
+              </div>
+            </div>
+            <div class="row row-form">
+              <div class="col">
+                <form class="form-inline" action="/action_page.php">
+                  <input class="form-control mr-sm-2" type="text" placeholder="Cerca...">
+                  <button type="button" class="borrar-input" data-dismiss="modal" aria-hidden="true">&times;</button>
+                  <button class="btn btn-search btn-xl" type="button">
+                    <i class="fas fa-search"></i>
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- search-form -->       
+      </section>
+      <!-- head     -->
+    </div>
+
+    <!-- Modal carrito-->
+    <div class="modal right fade" id="modal-cart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2"> <div class="modal-dialog" role="document"> <div class="modal-content"> <div class="modal-body"> <div class="row titulos-carrito"> <div class="col"> <h4 class="modal-title" id="myModalLabel2">Basket</h4> <h5 class="modal-title" id="myModalLabel2">Your basket is empty!</h5> <h6 class="modal-title" id="myModalLabel2">Enjoy the best discounts to travel around Barcelona in the easiest and most comfortable way with our transport services.</h6> </div> </div> <div class="row row-total"> <div class="col"> <a href="/buy-tickets" class="btn-block btn btn-outline-primary continue_shopping" >Buy now!</a> </div> </div> </div> </div> </div></div><script> function onCheckoutCart() { dataLayer.push({ 'event': 'checkout', 'ecommerce': { 'checkout': { 'actionField': {'step': 1, 'option': 'cart'}, 'products': [ ] } }, 'eventCallback': function() { document.location = '/cart' } }); }</script>    <!-- Modal carrito-->
+    <script>
+                function menuProductClick(name, slug, price, position, category) {
+            console.log(name, slug, price, position)
+            dataLayer.push({
+                'event': 'productClick',
+                'ecommerce': {
+                    'click': {
+                        'actionField': {'list': 'menu'},     
+                        'products': [{
+                            'name': name,                  
+                            'id': slug,
+                            'price': price,
+                            'category': category,
+                            'position': position
+                        }]
+                    }
+                }
+            });
+        }
+    </script>
+
+    
+
+
+
+
+                <section class="section-detail-tabs-mob" >
+        <div class="detail-container container-fluid" >
+            <div class="col-detail" >
+                <div class="detail-tabs" >
+                    <div class="detail-tab-link active" data-link="rate-product" >Fares</div>
+                    <div class="detail-tab-link" data-link="info-product" >Information</div>
+                    <div style="clear:both" ></div>
+                                    </div>
+            </div>
+        </div>
+        <div style="clear:both" ></div>
+    </section>
+
+
+
+<section>
+
+    <div class="detail-top-banner-noimg product-name-container detail-container" id="top">
+        <div class="col-detail">
+            <h1>Hola Barcelona Travel Card</h1>
+            <div class="product-description">Enjoy unlimited travel on the public transport network in Barcelona for 2 days (48h), 3 days (72h), 4 days (96h) or 5 days (120h).</div>
+                            <!-- OPINIONES VERIFICADAS STARTS VALORATION -->
+                <div class="opiniones">
+        <div class="row">
+        <div class="col-md-12">
+            <div style="margin: 0px auto;width: 100%; display: block;">
+                <div style="float: left; margin-right: 25px;">
+                                    </div>
+                <div style="width: 215px; float: left;">
+                    <div class="NETREVIEWS_PRODUCT_STARS" data-product-id="hola-bcn"></div>
+                </div>
+                <div style="float: left;">
+                    <img class="logo_opiniones-verificadas" src="/bundles/tmbtemplate/img/opiniones/logo-en.png" alt="" class="opiniones">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+.logo_opiniones-verificadas {
+  height: 25px;
+}
+
+.qu-diuen-els-nostre {
+  margin: 0 13px 0 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.opiniones {
+    width: 100%;
+    display: block;
+    padding: 10px 10px 10px 0;
+    margin: 0px;
+}
+
+@media (max-width: 992px) {
+    .logo_opiniones-verificadas {
+        margin: 0;
+        padding-left: 0;
+    }
+}
+</style>
+                <!-- END OPINIONES VERIFICADAS STARTS VALORATION -->
+                    </div>
+    </div>
+</section>
+
+<form id="product-form" name="checkoutForm" class="product-form"
+    action="/cart/products/add"  method="post"
+    currency="€">
+        
+    <section class="section-detail-tabs" >
+        <div class="detail-container" >
+            <div class="col-detail" >
+                <div class="detail-tabs" >
+                    <div class="detail-tab-link active" data-link="rate-product" >Fares</div>
+                    <div class="detail-tab-link" data-link="info-product" >Information</div>
+                    <div style="clear:both" ></div>
+                                    </div>
+            </div>
+        </div>
+        <div style="clear:both" ></div>
+    </section>
+
+    <section class="section-message onlydesk" >
+                    </section>
+    <!-- TICKED + DESCRIPTION BLOCK -->
+
+        <section class="terms_and_conditions_section" >
+            <input type="hidden" value="€" id="currency-symbol">
+            <div class="detail-container" >
+                <div class="row col-detail" >
+                    <div class="col-12 col-lg-7 detail-sale-intro-container" >
+                        <div class="detail-sale-intro" >
+                            
+                                                                                                        
+
+<div class="content-only-slide marginBottom40 product-slider">
+    <div id="sliderModule" class="carousel slide" data-ride="carousel">
+      <a class="carousel-control-prev" href="#sliderModule" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"><b class="fa fa-chevron-left fa-chevron-left-extra" aria-hidden="true"></b></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#sliderModule" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"><b class="fa fa-chevron-right fa-chevron-right-extra" aria-hidden="true"></b></span>
+        <span class="sr-only">Next</span>
+      </a>
+    <ol class="carousel-indicators">
+                                  <li data-target="#sliderModule" data-slide-to="0" class=" active"></li>
+                                                  <li data-target="#sliderModule" data-slide-to="1" class=" "></li>
+                                                  <li data-target="#sliderModule" data-slide-to="2" class=" "></li>
+                                                  <li data-target="#sliderModule" data-slide-to="3" class=" "></li>
+                                </ol>
+    <div class="carousel-inner">
+                                      <div class="carousel-item active">
+                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1889/resize/296/526/5.jpg" alt="Hola Barcelona Travel Card" />
+              </div>
+                                                        <div class="carousel-item ">
+                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1890/resize/296/526/5.jpg" alt="Hola Barcelona Travel Card" />
+              </div>
+                                                        <div class="carousel-item ">
+                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1891/resize/296/526/5.jpg" alt="Hola Barcelona Travel Card" />
+              </div>
+                                                        <div class="carousel-item ">
+                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1892/resize/296/526/5.jpg" alt="Hola Barcelona Travel Card" />
+              </div>
+                                  </div>
+  </div>
+</div>
+<div style="clear:both" ></div>
+
+<style>
+  /*** SLIDER ***/
+  .product-slider .carousel-indicators {
+    bottom: -30px!important;
+  }
+  .product-slider .carousel-indicators li{
+    background-color: #d8d8d8;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+  }
+  .product-slider .carousel-indicators .active{
+    background-color: #229fff;
+  }
+  .product-slider .carousel-control-next {
+    width: 50px;
+    position: absolute;
+    right: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  .product-slider .carousel-control-prev {
+    width: 50px;
+    position: absolute;
+    left: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  .product-slider .carousel-control-prev-icon,
+  .product-slider .carousel-control-next-icon{
+    background-color: #fff;
+    opacity: 1;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 50px!important;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #229fff;
+    box-shadow: 0 2px 4px 0 rgb(205 205 205 / 50%);
+  }
+
+
+  .product-slider .right-controls{
+    position:absolute;
+    top:0;
+    right: -25px;
+    width: 4%;
+    height: 100%;
+    z-index:40;
+    background: transparent;
+    opacity:1;
+    cursor:pointer;
+    text-align:center;
+    webkit justify content: center;
+    justify-content:center;
+    display: webkit box;
+    display: webkit flex;
+    display: moz box;
+    display:ms flexbox;
+    display:flex;
+    color:#fff;
+  }
+
+  .product-slider .module-section{
+    max-width: 100%;
+    overflow: hidden;
+    border:none;
+  }
+
+
+  .product-slider #content{
+    position:relative;
+  }
+
+  .product-slider .card{
+    width:336px;
+    height:336px;
+    background:#fff;
+    float:left;
+    margin-bottom:50px;
+    margin-right:7px;
+    transform: scale(1);
+    visibility:visible;
+    border: none;
+  }
+
+  .product-slider .inside-top img{
+    object-fit: cover;
+    width: 336px;
+    height: 336px;
+  }
+
+  .product-slider .inside-top{
+    width:100%;
+    height:150px;
+    background:#000;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:100;
+  }
+
+  .product-slider .clearfix {
+    overflow: hidden;
+    zoom: 1;
+  }
+
+  /*** End slider ***/
+  @media (max-width: 992px) {
+    .product-slider .carousel-control-prev,
+    .product-slider .carousel-control-next{
+      display: none;
+    }
+  }
+</style>                                
+                                <div class="summary-des" ><h2><b>The best way to visit Barcelona</b></h2> 
+
+<p>Get around freely with the Hola Barcelona Travel Card which provides unlimited journeys on public transport in Barcelona <b>for consecutive periods of 2 days (48 h), 3 days (72 h), 4 days (96 h) or 5 days (120 h) from the time it is first validated and at any time of day</b>.<br></p> <p>Hola Barcelona Travel Card is a non-transferable travel card that allows you make as many journeys as you like using <b>the metro and the&nbsp;bus (TMB), the urban railway (FGC, Zone 1), the Montjuïc funicular, the tram (TRAM), and the regional railway (Rodalies de Catalunya, Zone 1).</b> Montjuïc Cable Car not included.</p><p><span>Hola Barcelona Travel Card includes <b>metro service travel between the airport and Barcelona city centre</b>. Avoid paying extra for airport transfers and enjoy your Hola Barcelona Travel Card from the minute you touch down.</span></p><p><span>Buy now to receive 10% discount. Remember that children under 4 travel free!</span></p></div>
+                                <div class="summary-mob" >
+                                        <h2><b>The best way to visit Barcelona</b></h2> 
+
+<p>Get around freely with the Hola Barcelona Travel Card which provides unlimited journeys on public transport in Barcelona <b>for consecutive periods of 2 days (48 h), 3 days (72 h), 4 days (96 h) or 5 days (120 h) from the time it is first validated and at any time of day</b>.<br><span id='dots'></span></p><span id='more' data-more='Show more' data-less='Show less' > <p>Hola Barcelona Travel Card is a non-transferable travel card that allows you make as many journeys as you like using <b>the metro and the&nbsp;bus (TMB), the urban railway (FGC, Zone 1), the Montjuïc funicular, the tram (TRAM), and the regional railway (Rodalies de Catalunya, Zone 1).</b> Montjuïc Cable Car not included.</p><p><span>Hola Barcelona Travel Card includes <b>metro service travel between the airport and Barcelona city centre</b>. Avoid paying extra for airport transfers and enjoy your Hola Barcelona Travel Card from the minute you touch down.</span></p><p><span>Buy now to receive 10% discount. Remember that children under 4 travel free!</span></p></p></span><a href='javascript:void(0)' id='readMore' >Show more</a>
+                                </div>
+
+                            
+                        </div>
+                    </div>
+                    <div class="onlymob" >
+                                                                    </div>
+                    <div class="col-12 col-lg-5 mrg0" >
+                        <div id="rate-product"></div>
+                        <div class="detail-parse-product" >
+
+                            <div class="detail-parse-product-price container-fluid" > <div class="row"> <div class="col-2 col-sm-3"> <span class="discount-info">-10%</span> </div> <div class="col-10 col-sm-9"> <div class="detail-price-from" >From <span>€16.40</span></div> <div class="detail-reduced-price-from" >€14.76</div> </div> </div></div><div> <a name="Venda_en"></a> <div class="detail-parse-product-addToCart" > <div class="product-add-to-cart big-ticket-box"> <h2 class="detail-label" >Ticket type</h2> <label class="detail-people-content detail-ticket-type detail-ticket-type_2_Days rad" > <input type="radio" name="ticket_type" id="ticket_type_2_Days" data-pattr="2_Days" class="ticket_type_radio" /> <i></i> <div class="ticket_type_label" ><strong>2 days /48 h</strong> travel card</div> </label> <label class="detail-people-content detail-ticket-type detail-ticket-type_3_Days rad" > <input type="radio" name="ticket_type" id="ticket_type_3_Days" data-pattr="3_Days" class="ticket_type_radio" /> <i></i> <div class="ticket_type_label" ><strong>3 days /72 h</strong> travel card</div> </label> <label class="detail-people-content detail-ticket-type detail-ticket-type_4_Days rad" > <input type="radio" name="ticket_type" id="ticket_type_4_Days" data-pattr="4_Days" class="ticket_type_radio" /> <i></i> <div class="ticket_type_label" ><strong>4 days /96 h</strong> travel card</div> </label> <label class="detail-people-content detail-ticket-type detail-ticket-type_5_Days rad" > <input type="radio" name="ticket_type" id="ticket_type_5_Days" data-pattr="5_Days" class="ticket_type_radio" /> <i></i> <div class="ticket_type_label" ><strong>5 days /120 h</strong> travel card</div> </label> <h2 class="detail-label" >Fares</h2> <div class="block_none detail-people-content"> <div class="col-4"> <span class="span_attr">adults</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">0.00</div> <div class="current-red-price" >0.00</div> </div> <div class="add-ticket-box col-5"> <button type="button" class="btn-subtract pdt" disabled ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" disabled ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="block_none detail-people-content"> <div class="col-4"> <span class="span_attr">under 4 years old</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">0.00</div> <div class="current-red-price" >0.00</div> </div> <div class="add-ticket-box col-5"> <button type="button" class="btn-subtract pdt" disabled ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" disabled ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="actions-blocks"> <div class="actions-block"> <div class="add-ticket-box-block detail-people-content block_hidden block_2_Days" item="4063" data-discount="0.1" data-discount-type="%" > <div class="col-4"> <span class="span_attr">adults</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€16.40</div> <div class="current-red-price" >€14.76 </div> </div> <div class="add-ticket-box required col-5"> <input autocomplete="off" type="hidden" class="input_price" value="16.40"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="14.76"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4063]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="adult"/> <input autocomplete="off" type="hidden" class="input_trans0" value="adults"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00202\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="14.76" data-quantity="1" data-variant="049" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00202\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="14.76" data-quantity="1" data-variant="049" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="add-ticket-box-block detail-people-content block_hidden block_2_Days" item="4082" data-discount="0" data-discount-type="" > <div class="col-4"> <span class="span_attr">under 4 years old</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€0.00</div> <div class="current-red-price" >€0.00 </div> </div> <div class="add-ticket-box col-5"> <input autocomplete="off" type="hidden" class="input_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4082]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="under 4 years old"/> <input autocomplete="off" type="hidden" class="input_trans0" value="under 4 years old"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00202\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="212" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00202\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="212" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="resume-ticket-box col-2 col-sm-2 col-md-3 col-xl-2" style="display: none;"> <span class="line-through"><span>€0.00</span></span> </div> </div> <div class="actions-block"> <div class="add-ticket-box-block detail-people-content block_hidden block_3_Days" item="4064" data-discount="0.1" data-discount-type="%" > <div class="col-4"> <span class="span_attr">adults</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€23.80</div> <div class="current-red-price" >€21.42 </div> </div> <div class="add-ticket-box required col-5"> <input autocomplete="off" type="hidden" class="input_price" value="23.80"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="21.42"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4064]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="adult"/> <input autocomplete="off" type="hidden" class="input_trans0" value="adults"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00203\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="21.42" data-quantity="1" data-variant="051" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00203\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="21.42" data-quantity="1" data-variant="051" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="add-ticket-box-block detail-people-content block_hidden block_3_Days" item="4083" data-discount="0" data-discount-type="" > <div class="col-4"> <span class="span_attr">under 4 years old</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€0.00</div> <div class="current-red-price" >€0.00 </div> </div> <div class="add-ticket-box col-5"> <input autocomplete="off" type="hidden" class="input_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4083]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="under 4 years old"/> <input autocomplete="off" type="hidden" class="input_trans0" value="under 4 years old"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00203\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="213" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00203\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="213" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="resume-ticket-box col-2 col-sm-2 col-md-3 col-xl-2" style="display: none;"> <span class="line-through"><span>€0.00</span></span> </div> </div> <div class="actions-block"> <div class="add-ticket-box-block detail-people-content block_hidden block_4_Days" item="4065" data-discount="0.1" data-discount-type="%" > <div class="col-4"> <span class="span_attr">adults</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€31.00</div> <div class="current-red-price" >€27.90 </div> </div> <div class="add-ticket-box required col-5"> <input autocomplete="off" type="hidden" class="input_price" value="31.00"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="27.90"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4065]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="adult"/> <input autocomplete="off" type="hidden" class="input_trans0" value="adults"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00204\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="27.90" data-quantity="1" data-variant="050" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00204\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="27.90" data-quantity="1" data-variant="050" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="add-ticket-box-block detail-people-content block_hidden block_4_Days" item="4084" data-discount="0" data-discount-type="" > <div class="col-4"> <span class="span_attr">under 4 years old</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€0.00</div> <div class="current-red-price" >€0.00 </div> </div> <div class="add-ticket-box col-5"> <input autocomplete="off" type="hidden" class="input_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4084]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="under 4 years old"/> <input autocomplete="off" type="hidden" class="input_trans0" value="under 4 years old"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00204\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="214" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00204\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="214" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="resume-ticket-box col-2 col-sm-2 col-md-3 col-xl-2" style="display: none;"> <span class="line-through"><span>€0.00</span></span> </div> </div> <div class="actions-block"> <div class="add-ticket-box-block detail-people-content block_hidden block_5_Days" item="4066" data-discount="0.1" data-discount-type="%" > <div class="col-4"> <span class="span_attr">adults</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€38.20</div> <div class="current-red-price" >€34.38 </div> </div> <div class="add-ticket-box required col-5"> <input autocomplete="off" type="hidden" class="input_price" value="38.20"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="34.38"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4066]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="adult"/> <input autocomplete="off" type="hidden" class="input_trans0" value="adults"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00205\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="34.38" data-quantity="1" data-variant="052" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00205\u0020Days,\u0020Adult\u0020Age" data-slug="hola" data-category="hola" data-price="34.38" data-quantity="1" data-variant="052" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="add-ticket-box-block detail-people-content block_hidden block_5_Days" item="4085" data-discount="0" data-discount-type="" > <div class="col-4"> <span class="span_attr">under 4 years old</span> </div> <div class="col-3 current-price-desk"> <div class="current-price" currency="EUR">€0.00</div> <div class="current-red-price" >€0.00 </div> </div> <div class="add-ticket-box col-5"> <input autocomplete="off" type="hidden" class="input_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_reduced_price" value="0.00"/> <input autocomplete="off" type="hidden" class="input_qty" name="variant[4085]" value="0"/> <input autocomplete="off" type="hidden" class="input_trans1" value="under 4 years old"/> <input autocomplete="off" type="hidden" class="input_trans0" value="under 4 years old"/> <button type="button" class="btn-subtract pdt" data-name="hola\u00205\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="215" ><i class="fa fa-minus" aria-hidden="true"></i></button> <div class="content-copy" ><span class="quantity"><span class="span_qty">0</span> </span></div> <button type="button" class="btn-add pdt" data-name="hola\u00205\u0020Days,\u0020Minor\u0020Age" data-slug="hola" data-category="hola" data-price="0.00" data-quantity="1" data-variant="215" ><i class="fa fa-plus" aria-hidden="true"></i></button> </div> </div> <div class="resume-ticket-box col-2 col-sm-2 col-md-3 col-xl-2" style="display: none;"> <span class="line-through"><span>€0.00</span></span> </div> </div> </div> </div> </div> </div> <div class="resume-block "> <h3 class="price-text">Total</h3> <div class="price-values" > <span class="price"><span>€0.00</span></span> <span class="line-through"><span>€0.00</span></span> <div style="clear:both" ></div> </div> <div style="clear:both" ></div> <button type="submit" data-tmb-event="click-product-buy" data-analytics-id="hola" class="btn-secundary red buy_product_now" >Buy now </button> <div style="clear:both" ></div> </div> </div>
+
+
+                                                <div style="clear:both"></div>
+                            <div id="info-product" ></div>
+        
+                        </div>
+                    </div>
+
+                </div>
+                            
+
+            </div>
+
+    </section>
+
+
+    <section class="product-detail-content terms_and_conditions_section detail_section" >
+        <div class="container-fluid detail-container-info" >
+            <div class="mrb30 hl_bold_content" style="padding-bottom:0px;paddig-top:45px;" >
+                <h2 class="detail-container-info-title" ><div class="info-product-ico" ></div> Information</h2>
+                <div data-link="top" class="detail-tab-link info-container-top" > </div>
+                                    <div class="info-container" >
+                        <h3><b>What does Hola Barcelona Travel Card include?</b></h3><ul><li>A non-transferable travel card which provides unlimited journeys on public transport in Barcelona for consecutive periods of 2 days (48 h), 3 days (72 h), 4 days (96 h) or 5 days (120 h) from the time it is first validated and at any time of day. </li><li>Changeovers between different travel operators: metro, bus and  Montjuïc funicular (TMB), urban railway (FGC, Zone 1), tram (TRAM) and Barcelona regional mainline trains (Rodalies de Catalunya, Zone 1). Montjuïc Cable Car not included.</li><li>The travel includes metro service travel between the airport and Barcelona city centre.</li></ul><h3><b>Get your travel card at any metro station</b></h3> <p>We will email you a voucher with a personalised code. This code can then be used to pick up your travel card at any metro station. Only Hola Barcelona offers this service. Save yourself the cost of postage and avoid the queues. </p> <p>Watch this <a href="https://youtu.be/hjAd5LtNkzg" target="_blank"> video with instructions for getting your travel card.</a></p> <p><b>Reservation valid for 90 calendar days from the date of purchase</b>, until the last day of February of the following year at the latest.</p><p>The easiest, fastest and cheapest way to get around Barcelona!</p><br>
+                                                                                                                            
+                    </div>
+                    <div id="detail-product" ></div>
+                    <div class="info-container" >
+
+
+                                                
+                                                
+                                                                                <div class="col-home box-des">
+            <h3 class="box-title-tabs">Barcelona guides for travelling on public transport</h3>
+                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 content-col-home lbox" >
+                    <div class="featured-box" >
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <div class="img-over-block" >
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                                                                                                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class=" active"></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="1" class=" "></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="2" class=" "></li>
+                                                                                                                                            </ol>
+                                <div class="carousel-inner">
+                                                                                                                                                                <div class="carousel-item active">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1893/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1895/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1894/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                        </div>
+                            </div>
+
+                        </div>
+                        <span class="feature-caption-box title-box" >Visit Barcelona in 2 days</span>
+                        <div class="blank-line"></div>
+                        <!-- <p  class="feature-caption-box" > </p> -->
+                        <div class="blank-line"></div>
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/2/guia_11-en_GB-2_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                    </div><!-- end featured-box-large -->
+                </div><!-- end featured-box-large -->
+                                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 content-col-home lbox" >
+                    <div class="featured-box" >
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <div class="img-over-block" >
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                                                                                                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class=" active"></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="1" class=" "></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="2" class=" "></li>
+                                                                                                                                            </ol>
+                                <div class="carousel-inner">
+                                                                                                                                                                <div class="carousel-item active">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1896/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1897/resize/275/404/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1898/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                        </div>
+                            </div>
+
+                        </div>
+                        <span class="feature-caption-box title-box" >Visit Barcelona in 3 days</span>
+                        <div class="blank-line"></div>
+                        <!-- <p  class="feature-caption-box" > </p> -->
+                        <div class="blank-line"></div>
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/3/guia_11-en_GB-3_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                    </div><!-- end featured-box-large -->
+                </div><!-- end featured-box-large -->
+                                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 content-col-home lbox" >
+                    <div class="featured-box" >
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <div class="img-over-block" >
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                                                                                                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class=" active"></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="1" class=" "></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="2" class=" "></li>
+                                                                                                                                            </ol>
+                                <div class="carousel-inner">
+                                                                                                                                                                <div class="carousel-item active">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1900/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1899/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1901/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                        </div>
+                            </div>
+
+                        </div>
+                        <span class="feature-caption-box title-box" >Visit Barcelona in 4 days</span>
+                        <div class="blank-line"></div>
+                        <!-- <p  class="feature-caption-box" > </p> -->
+                        <div class="blank-line"></div>
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/4/guia_11-en_GB-4_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                    </div><!-- end featured-box-large -->
+                </div><!-- end featured-box-large -->
+                                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 content-col-home lbox" >
+                    <div class="featured-box" >
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <div class="img-over-block" >
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                                                                                                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class=" active"></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="1" class=" "></li>
+                                                                                                                                                                                        <li data-target="#carouselExampleIndicators" data-slide-to="2" class=" "></li>
+                                                                                                                                            </ol>
+                                <div class="carousel-inner">
+                                                                                                                                                                <div class="carousel-item active">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1903/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1902/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                                                                                <div class="carousel-item ">
+                                                <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1904/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                            </div>
+                                                                                                                                                        </div>
+                            </div>
+
+                        </div>
+                        <span class="feature-caption-box title-box" >Visit Barcelona in 5 days</span>
+                        <div class="blank-line"></div>
+                        <!-- <p  class="feature-caption-box" > </p> -->
+                        <div class="blank-line"></div>
+                        <div class="info-tag" >
+                            <span>Guide</span>
+                        </div>
+                        <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/5/guia_11-en_GB-5_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                    </div><!-- end featured-box-large -->
+                </div><!-- end featured-box-large -->
+                                                                                    <div style="clear:both" ></div>
+</div><!-- end boxes-tabs-block -->
+
+
+<div class="col-home box-mob">
+            <h3 class="box-title-tabs">Barcelona guides for travelling on public transport</h3>
+        <div id="sliderModuleBox" class="carousel slide" data-ride="carousel">
+        <a class="carousel-control-prev" href="#sliderModuleBox" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"><b class="fa fa-chevron-left fa-chevron-left-extra" aria-hidden="true"></b></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#sliderModuleBox" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"><b class="fa fa-chevron-right fa-chevron-right-extra" aria-hidden="true"></b></span>
+            <span class="sr-only">Next</span>
+        </a>
+        <div class="carousel-inner">
+                                                                                                                                    <div class="carousel-item active">
+                            <div class="featured-box" >
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <div class="img-over-block" >
+                                                                                                                                                            <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1893/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                                                                                                                                                                                                                                                                
+                                </div>
+                                <span class="feature-caption-box title-box" >Visit Barcelona in 2 days</span>
+                                <div class="blank-line"></div>
+                                <!-- <p  class="feature-caption-box" > </p> -->
+                                <div class="blank-line"></div>
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/2/guia_11-en_GB-2_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                            </div><!-- end featured-box-large -->
+                        </div><!-- end featured-box-large -->
+                                                                                                                                                                                    <div class="carousel-item ">
+                            <div class="featured-box" >
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <div class="img-over-block" >
+                                                                                                                                                            <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1896/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                                                                                                                                                                                                                                                                
+                                </div>
+                                <span class="feature-caption-box title-box" >Visit Barcelona in 3 days</span>
+                                <div class="blank-line"></div>
+                                <!-- <p  class="feature-caption-box" > </p> -->
+                                <div class="blank-line"></div>
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/3/guia_11-en_GB-3_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                            </div><!-- end featured-box-large -->
+                        </div><!-- end featured-box-large -->
+                                                                                                                                                                                    <div class="carousel-item ">
+                            <div class="featured-box" >
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <div class="img-over-block" >
+                                                                                                                                                            <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1900/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                                                                                                                                                                                                                                                                
+                                </div>
+                                <span class="feature-caption-box title-box" >Visit Barcelona in 4 days</span>
+                                <div class="blank-line"></div>
+                                <!-- <p  class="feature-caption-box" > </p> -->
+                                <div class="blank-line"></div>
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/4/guia_11-en_GB-4_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                            </div><!-- end featured-box-large -->
+                        </div><!-- end featured-box-large -->
+                                                                                                                                                                                    <div class="carousel-item ">
+                            <div class="featured-box" >
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <div class="img-over-block" >
+                                                                                                                                                            <img class="d-block w-100" src="//pro.static.holabarcelona.com/images/1903/resize/275/405/5.jpg" alt="Hola Barcelona Travel Card" />
+                                                                                                                                                                                                                                                                                
+                                </div>
+                                <span class="feature-caption-box title-box" >Visit Barcelona in 5 days</span>
+                                <div class="blank-line"></div>
+                                <!-- <p  class="feature-caption-box" > </p> -->
+                                <div class="blank-line"></div>
+                                <div class="info-tag" >
+                                    <span>Guide</span>
+                                </div>
+                                <a  href="https://pro.static2.holabarcelona.com/documents/GUIES_2023_04/5/guia_11-en_GB-5_dias.pdf" target="_blank" ><span class="btn-download" >Download <i class="fa fa-download"></i></span></a>
+                            </div><!-- end featured-box-large -->
+                        </div><!-- end featured-box-large -->
+                                                                                                                                                                                                </div>
+    </div>
+    </div>
+    <div style="clear:both" ></div>
+
+
+
+
+</div><!-- end boxes-tabs-block -->
+
+
+
+<style>
+  .carousel-indicators {
+    bottom: 10px!important;
+  }
+  .carousel-indicators li{
+    background-color: rgba(239, 239, 239, 0.7);
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+  }
+  .carousel-indicators .active{
+    background-color: #ffffff;
+  }
+.featured-box .img-over-block {
+    max-height: 100%!important;
+}
+
+
+
+
+
+/* SLIDER */
+
+  #carousel-example-boxes .carousel-item{
+    padding-right: 7px;
+  }
+
+  #carousel-example-boxes .clearfix {
+    overflow: hidden;
+    zoom: 1;
+  }
+
+  #carousel-example-boxes .carousel-control-next {
+    width: 50px;
+    position: absolute;
+    right: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  #carousel-example-boxes .carousel-control-prev {
+    width: 50px;
+    position: absolute;
+    left: -15px;
+    opacity: 1;
+    z-index: 99;
+  }
+  
+  #carousel-example-boxes .carousel-control-prev-icon,
+  #carousel-example-boxes .carousel-control-next-icon{
+    background-color: #fff;
+    opacity: 1;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 50px!important;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #229fff;
+    box-shadow: 0 2px 4px 0 rgb(205 205 205 / 50%);
+  }
+/*
+    code by Iatek LLC 2018 - CC 2.0 License - Attribution required
+    code customized by Azmind.com
+*/
+.box-mob{display: none}
+.box-des{display: block}
+@media (max-width: 992px) {
+    .top-content{ padding: 0!important;}
+    .box-mob{display: block!important}
+    .box-des{display: none!important}
+}
+
+
+</style>
+<script>
+var itemsPerSlide = 3;
+var totalItems = $('#carousel-example-boxes .carousel-item').length;
+
+if(totalItems <= itemsPerSlide){
+  $('#carousel-example-boxes .carousel-control-prev').attr('href','javascript:void(0)');
+  $('#carousel-example-boxes .carousel-control-next').attr('href','javascript:void(0)');
+  $('#carousel-example-boxes').carousel({
+      pause: true,
+      interval: false
+  });
+}
+</script>                        
+                    </div>
+                
+                                    <div class="hl_bold_content" style="padding-top:0px;padding-bottom:30px;">
+                        <div class="info-container">
+                            <!-- OPINIONES VERIFICADAS PRODUCT VALORATION -->
+                            <div style="padding-bottom: 5%">
+<script charset="utf-8" src="//cl.avis-verifies.com/gb/cache/c/1/a/c1a31777-0a50-98c4-3db8-9d086d562015/AWS/PRODUCT_API/tag.min.js"></script>
+<div class="NETREVIEWS_PRODUCT_REVIEWS" data-product-id="hola-bcn"></div>
+</div>
+                            <!-- END OPINIONES VERIFICADAS PRODUCT VALORATION -->
+                        </div>
+                    </div>
+                
+
+            </div>
+            <div style="clear:both"></div>
+
+        </div>
+
+            </section>
+</form>
+<script>
+                    // Measure a view of product details. This example assumes the detail view occurs on pageload,
+    // and also tracks a standard pageview of the details page.
+    dataLayer.push({
+    'event': 'productDetail',
+    'ecommerce': {
+        'detail': {
+        'actionField': {},
+        'products': [{
+            'name': 'hola',         // Name or ID is required.
+            'id': 'hola',
+            'category': 'hola',
+            'price': '14.76'
+        }]
+        }
+    }
+    });
+</script>
+    <!-- Promo APP -->
+
+
+
+  
+  <section class="promo_app">
+      <div class="container-fluid promo-app-container">
+          <div class="col-home col-app-container">  
+              <div class="row">  
+                  <div class="col-lg-5" >
+                      <div class="col-sm-12" >
+                          <h1 class="promo_app_title" >Discover the city with the Hola Barcelona app</h1>
+                      </div>
+                      <div class="col-sm-12" >
+                            <div class="promo_app_description">
+                                Download our app, the best guide to getting around the city: look for routes and transport alternatives, find the most emblematic places in the city, buy tickets to get around the city, and carry them with you on the app. What are you waiting for? 
+                            </div>
+                      </div>
+                      <div class="col-sm-12" >
+                                                            <a href="https://play.google.com/store/apps/details?id=com.holabarcelona&amp;hl=en&amp;referrer=utm_source%3Dweb%26utm_medium%3Dreferral%26utm_campaign%3Dholabarcelona" target="_blank" ><img src="/bundles/tmbtemplate/img/promo_app/google-play-badge.png"  /></a>
+                                                                                        <a href="https://apps.apple.com/app/hola-barcelona/id1640229273?pt=216671&amp;ct=web_holabarcelona&amp;mt=8" target="_blank" ><img src="/bundles/tmbtemplate/img/promo_app/download-on-the-app-store-apple-1.png"  /></a>
+                                                  </div>
+                      <div style="clear:both" ></div>
+                  </div>
+                  <div class="col-lg-1" ></div>
+                  <div class="col-lg-6" style="text-align:center" >
+                    <img class="promo-app-img-background" src="/bundles/tmbtemplate/img/promo_app/group.png"  />
+                    <img class="promo-app-img-front" src="/bundles/tmbtemplate/img/promo_app/clay-mockup-3-x.png"  />
+                    <div style="clear:both" ></div>
+                                      </div>
+              </div>
+          </div>
+      </div>
+  </section>
+<!-- Promo APP -->
+    
+
+
+
+<!-- footer -->
+    <footer>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="container container-footer">
+            <div class="footer-body row">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-3">
+                <div class="row">
+                    <a class="navbar-brand" href="/"><img src="/bundles/tmbtemplate/img/logo-alpha.png" alt="" class="img-producto img-fluid logo-footer"></a>
+                </div>
+                <div class="row">
+                  <div class="center-footer-icons">
+                      <a href="//www.facebook.com/holabarcelona.travelsolution" target="_blank" title="Facebook" rel="nofollow" ><div class="icon-footer facebook-ico"></div></a>
+                      <a href="//www.instagram.com/holabarcelona.travelsolution/" target="_blank" title="Instagram" rel="nofollow" ><div class="icon-footer instagram-ico"></div></a>
+                      <a href="//www.youtube.com/channel/UCzNEErda7tdJBlbj_s7OJKw" target="_blank" title="Youtube" rel="nofollow" ><div class="icon-footer youtube-ico"></div></a>
+                  </div>
+                </div>
+              </div>
+              <!--Information and help-->
+              <div class="col-12 col-sm-12 col-md-12 col-lg-3">
+                <a href="#" class="title-footer-link">Information and help</a>
+                <a class="regular-footer-link" rel="nofollow" href="/faq" title="Frequently asked questions"><div class="question-ico" ></div>Frequently asked questions</a>
+                <a class="regular-footer-link" rel="nofollow" href="/voucher/recover" title="Retrieve booking voucher"><div class="voucher-ico" ></div>Retrieve booking voucher</a>
+                <a class="regular-footer-link" rel="nofollow" href="/conditions" title="General terms and conditions of online contracting"><div class="info-ico" ></div>General terms and conditions of online contracting</a>
+                <a class="regular-footer-link" rel="nofollow" href="/contact-us" title="Contact us"><div class="contacto-ico" ></div>Contact us</a>
+              </div>
+              <!--Information and help-->
+              <div class="col-12 col-sm-12 col-md-12 col-lg-3">
+              <a href="#" class="title-footer-link">More info</a>
+              <a class="regular-footer-link" rel="nofollow" href="/about-us" title="About us">About us</a>
+              <a class="regular-footer-link" rel="nofollow" href="/legal-notice" title="Legal Notice">Legal Notice</a>
+              <a class="regular-footer-link" target="_blank" rel="nofollow" href="/data-protection-policy" title="Data protection policy">Data protection policy</a>
+              <a class="regular-footer-link" target="_blank" rel="nofollow" href="/cookies-policy" title="Cookies Policy">Cookies Policy</a>
+              <a class="regular-footer-link" rel="nofollow" href="javascript:Cookiebot.renew()" title="Cookie manager">Cookie manager</a>
+              <a class="regular-footer-link" rel="nofollow" href="/site-map" title="Site map">Site map</a>
+              </div>
+              <!-- Products -->
+              <div class="col-12 col-sm-12 col-md-12 col-lg-3">
+                <a href="#" class="title-footer-link">Products</a>
+                 <a class="regular-footer-link comprar_footer_hola-bcn-barcelona-travel-card footer_event_buy" href="/tickets/hola-bcn-barcelona-travel-card" data-name="hola" data-id="hola" data-category="hola" data-pos="1" data-price="14.76" title="Hola Barcelona Travel Card" >Hola Barcelona Travel Card</a> <a class="regular-footer-link comprar_footer_cable-car-montjuic-barcelona footer_event_buy" href="/tickets/cable-car-montjuic-barcelona" data-name="teleferic" data-id="teleferic" data-category="teleferic" data-pos="2" data-price="9.90" title="Montjuïc Cable Car" >Montjuïc Cable Car</a> <a class="regular-footer-link comprar_footer_barcelona-hop-on-hop-off-bus-tour footer_event_buy" href="/tickets/barcelona-hop-on-hop-off-bus-tour" data-name="bbt" data-id="bbt" data-category="bbt" data-pos="3" data-price="16.20" title="Hop on Hop off Barcelona" >Hop on Hop off Barcelona</a> <a class="regular-footer-link comprar_footer_barcelona-night-tour-bus footer_event_buy" href="/tickets/barcelona-night-tour-bus" data-name="nighttour" data-id="nighttour" data-category="nighttour" data-pos="4" data-price="10.00" title="Barcelona Night Tour Bus" >Barcelona Night Tour Bus</a> <a class="regular-footer-link comprar_footer_barcelona-christmas-tour footer_event_buy" href="/tickets/barcelona-christmas-tour" data-name="christmas" data-id="christmas" data-category="christmas" data-pos="5" data-price="0.00" title="Barcelona Christmas Tour" >Barcelona Christmas Tour</a> <a class="regular-footer-link comprar_footer_packs footer_event_buy" href="/transport-deals" data-name="packs" data-id="packs" data-category="packs" data-pos="7" data-price="23.29" title="Transport deals" >Transport deals</a> <a class="regular-footer-link comprar_footer_CBT footer_event_buy" href="/tickets/tours-from-barcelona" data-name="excursiones" data-id="excursiones" data-category="excursiones" data-pos="8" data-price="36.00" title="Tours from Barcelona" >Tours from Barcelona</a> <script> function dataLayerFooter() { console.log('dataLayerFooter'); dataLayer.push({ 'event': 'impressions', 'ecommerce': { 'currencyCode': 'EUR', 'impressions': [ { 'name': 'hola', 'id': 'hola', 'price': '14.76', 'list': 'footer', 'category': 'hola', 'position': '1' }, { 'name': 'teleferic', 'id': 'teleferic', 'price': '9.90', 'list': 'footer', 'category': 'teleferic', 'position': '2' }, { 'name': 'bbt', 'id': 'bbt', 'price': '16.20', 'list': 'footer', 'category': 'bbt', 'position': '3' }, { 'name': 'nighttour', 'id': 'nighttour', 'price': '10.00', 'list': 'footer', 'category': 'nighttour', 'position': '4' }, { 'name': 'christmas', 'id': 'christmas', 'price': '0.00', 'list': 'footer', 'category': 'christmas', 'position': '5' }, { 'name': 'packs', 'id': 'packs', 'price': '23.29', 'list': 'footer', 'category': 'packs', 'position': '6' } ,{ 'name': 'excursiones', 'id': 'excursiones', 'price': '36.00', 'list': 'footer', 'category': 'excursiones', 'position': '7' }, ] } }); } </script>              </div>
+            </div>
+            <div class="footer-footer">
+              <div class="row ordered-footer">
+                <div class="col-12 col-sm-12 col-md-3 col-lg-3 order-one">
+                        <img src="/bundles/tmbtemplate/img/corp-tmb-logo-small.png" alt="" class="img-producto img-fluid">
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 order-two">
+                  <p class="txt-legal">Copyright TMB Group 2023. All rights reserved.</p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-3 col-lg-3 order-three">
+                        <img src="/bundles/tmbtemplate/img/visas.jpg" alt="" class="img-producto img-fluid">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- footer -->
+
+
+<script>
+        function footerProductClick(name, slug, price, position, category) {
+      console.log(name, slug, price, position);
+        dataLayer.push({
+            'event': 'productClick',
+            'ecommerce': {
+                'click': {
+                    'actionField': {'list': 'footer'},     
+                    'products': [{
+                        'name': name,                  
+                        'id': slug,
+                        'price': price,
+                        'category': category,
+                        'position': position
+                    }]
+                }
+            }
+        });
+    }
+</script>
+    
+
+
+
+    
+    
+    
+
+<style>
+
+.nopadding {
+    padding: 0 !important;
+}
+.promo-banner-image {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    height: px !important;
+}
+
+.banner-promo{
+    left: 5%;
+}
+
+.banner-button{
+    border: 2px solid white !important;
+    background-color: #229fff;
+    color: #ffffff!important;
+}
+
+.banner-button-template2{
+    top: 340px !important;
+    border: 2px solid #229fff!important;
+    background-color: #229fff;
+    color: #ffffff!important;
+    
+}
+
+.banner-button:hover,
+.banner-button-template2:hover{
+    color: #ffffff!important;
+    background-color: #6ab7fc!important;
+}
+
+.promo-title {
+    font-size: px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.promo-text {
+    padding-right: 15px;
+    top: 100px !important;
+    max-width: 100%;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.promo-code {
+    font-weight: bold !important;
+    top: 250px !important;
+    font-size: px;
+    color: !important;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px; /* Adjusts for spacing */
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  min-width: 325px;
+  margin: 0 !important;
+}
+
+
+.modal-body {
+    padding: 0px;
+    background: white;
+    font-family: Roboto;
+}
+
+.modal-content {
+    position: relative;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    overflow-y: initial;
+}
+
+.modal-header {
+    padding: 5px;
+    border-bottom: none;
+}
+
+.modal-header span.close {
+    background-color: black;
+    opacity: 1;
+    color: #fff;
+    text-shadow: none;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    bottom: -5px;
+    z-index: 999;
+    right: -5px;
+    cursor: pointer;
+    border: 1px solid white;
+    line-height: 20px;
+    box-shadow: 0 0 5px rgb(0 0 0 / 53%);
+}
+
+.modal-body>.responsiveWidth{
+    height: 100%!important;
+}
+
+@media (min-width:992px) {
+    .promo-curve{
+        background: radial-gradient(circle farthest-side at top 0px left -20px, rgba(0, 64, 113, 0.7) 100%, transparent);
+    }
+    .promo-title.template3 {
+        margin-top: 51px;
+        padding-right: 50px;
+        margin-left: 41px;
+        line-height: normal;
+        font-weight: bold;        
+    }
+    .promo-text.template3 {
+        padding-right: 50px;
+        margin-left: 41px;
+    }
+    .promo-text.template3 strong,
+    .promo-text.template3 b{
+        font-weight: bold;
+    }
+    .promo-code.template3 {
+        margin-left: 41px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.38;
+        letter-spacing: 0.15px;
+    }
+    .promo-button.template3 {
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: 0.25px;
+        text-align: center;
+        margin-left: 41px;
+        background-color: #fff;
+        color: #229fff!important;
+        border: 1px solid #229fff!important;
+    }
+    .banner-button{
+        top: 340px !important;
+    }
+    .banner-promo{
+       position: absolute;
+    }
+    .fullWidth {
+        display: block;
+    }
+    .responsiveWidth {
+        display: none;
+    }
+	.modal-dialog {
+        height: px;
+	    max-width: 100%;
+	    margin: 0;
+	}
+    #modal .modal-body{
+        height: auto;
+    }
+
+    .sombra {
+            }
+
+}
+@media (max-width:991px) {
+    
+
+    .promo-curve{
+        background: radial-gradient(circle farthest-side at bottom -175% left 11%, rgba(0, 64, 113, 0.7) 100%, transparent);
+    }
+    .promo-title.template3 {
+        text-align: center;
+        margin: 30px 17px 10px 17px;
+        line-height: normal;
+        font-weight: bold;
+        font-size: 22px!important;
+        width: 290px;
+        height: 75px;
+        margin: 0 0 8px;
+        font-family: Roboto;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: -0.18px;
+    }
+    .promo-text.template3 {
+        text-align: center;
+        margin: 0px 17px 0 17px;
+    }
+    .promo-code.template3 {
+        text-align: center;
+        font-size: 14px;
+        margin: 0px 17px 0 17px;
+    }
+    .promo-button.template3 {
+        width: 50%;
+        font-size: 14px;
+        margin: 20px auto;
+        float: none;
+        background-color: #fff;
+        color: #229fff!important;
+        border: 1px solid #229fff!important;
+    }
+    .fullWidth {
+        display: none;
+    }
+    .responsiveWidth {
+        display: block;
+    }
+	.modal-dialog {
+	    max-width: 80%;
+	    margin: 0;
+	}
+    /*Sombra a color plano en vista móvil*/
+    
+    .modal-body {
+        /* 100% = dialog height, 120px = header + footer */
+        max-height: calc(100% - 120px);
+        overflow-y: scroll;
+    }
+}
+.modal-body .full-width-top-banner{
+	margin-bottom: 0px;
+    height: 100%;
+}
+.modal-header span.close {
+    line-height: 28px;
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+} 
+
+.modal-header .close {
+    padding: none !important;
+}
+.sombra {
+    width: 100%;
+    height: 100%;
+}
+
+</style>
+        
+        
+
+                <script type="application/javascript">
+        var page_locale = "en";
+        if (typeof(global_currency) === 'undefined') {
+            var global_currency = "€";
+        }
+        var url_product_add = "/cart/products/increaseqty";
+        var url_product_subtract = "/cart/products/decreaseqty";
+        var url_delete_cartline = "/cart/products/deletecartline";
+        var url_accept_cookies = "/cookies-accept";
+        var url_cart_nav = "/cart/nav";
+        var url_set_locale = "/set_locale";
+        var url_booking_availability = "/tmb/booking/availability";
+        var url_booking_availability_by_day = "/tmb/booking/availability_by_day";
+        var url_cart_add_discount_coupon = "/cart/discountcoupons/add";
+        var url_cart_remove_discount_coupon = "/cart/discountcoupons/remove";
+        var url_booking_update_price = "/updatePrice";
+        var url_booking_get_booking_departure = "/getBookingDeparture";
+        var url_booking_get_booking_arrival = "/getBookingArrival";
+        var store_booking_calendar_route = "/getBookingCalendarRoute";
+    </script>
+
+
+                <script src="/bundles/tmbtemplate/js/jquery-3.5.1.min.js" ></script>
+    <script src="/bundles/tmbtemplate/js/vendor/bx-slider/jquery.bxslider.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/jquery.validate/dist/jquery.validate.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/selectbox/jquery.selectBox.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/bootstrap-datepicker-new/js/bootstrap-datepicker.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/jsvat/dist/jsvat.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/vendor/bootstrap-datepicker-new/locales/bootstrap-datepicker.en.min.js"></script>
+
+    <script src="/bundles/tmbtemplate/js/font-awesome.min.js" ></script>
+    <script src="/bundles/tmbtemplate/js/popper.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/bootstrap.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/min/main.min.js"></script>
+    <script src="/bundles/tmbtemplate/js/tmb_min.js?v2.13.1"></script>
+
+                <!-- JS nuevo template pagina faq -->
+    <script src="/bundles/tmbtemplate/js/widget_script_min.js?v2.13.1"></script>
+
+    
+<script type="application/javascript">
+  $(document).ready(function() {
+    console.log('ready promotion');
+  });
+
+  function hidePromo() {
+    var req = new XMLHttpRequest();
+    req.open('GET', '/api/hide-promo');
+    req.send();
+
+}
+
+</script>
+    <script type="application/javascript">
+  $(document).ready(function() {
+    console.log('ready menu');
+  });
+
+  function showProductDetail(id) {
+    $('.detail').hide();
+    $('.detail-'+id).show();
+  }
+  function generalAvisHeight(){
+		return (parseInt($('.general_avis_section').height()) + parseInt($('.general_avis_section').css('padding-top')) + parseInt($('.general_avis_section').css('padding-bottom')) );
+	}
+
+  $('.tickets').mouseenter(function() {
+      $(this).addClass('show');
+      $('.megamenu').addClass('mega-visible');
+      let promoh = 0;
+      if($('.promo-container').length && !isNaN($('.promo-container').height())) {
+        promoh = $('.promo-container').height()
+      }
+      let avish = 0
+      if ($('.general_avis_section').length && $('.general_avis_section').css('display') != 'none') {
+        avish = generalAvisHeight();
+      }
+      let top = $('.head-container').height() + promoh + avish;
+      if($('.head-container').hasClass('fixed')) {
+        top = top - promoh - avish;
+      }
+
+
+      $('.megamenu').css('top',top+'px');
+  });
+
+  $('.select-lang').mouseenter(function() {
+      $('.tickets').removeClass('show');
+      $('.megamenu').removeClass('mega-visible');
+  });
+
+  $(window).bind('scroll', function () {
+      let promoh = 0;
+      if(!isNaN($('.promo-container').height())) {
+        /* Si hay promo no fijamos el menú hasta que el scroll deje atrás dicho elemento */
+        promoh = $('.promo-container').height()
+      }
+      if ($(window).scrollTop() > promoh) {
+          /* Primero añadimos la clase fixed, para que los elementos obtengan las propiedades CSS correspondientes */
+          $('.head-container').addClass('fixed');
+          /* Una vez el menu tenga los estilos pertinentes realizamos los cálculos */
+          let top = $('.head-container').height();
+          $('.megamenu').css('top',top+'px');
+      } else {
+          $('.head-container').removeClass('fixed');
+          /* En cuanto eliminamos la clase fixed recolculamos la altura de los dropdown. */
+          let top = $('.head-container').height() + $('.promo-container').height();
+          $('.megamenu').css('top',top+'px');
+      }
+  });
+
+</script>    
+
+
+
+<script src="/bundles/tmbtemplate/js/bootstrap.min.js"></script>
+
+<script>
+
+    
+    function showDescription() {
+        $('#show_description').replaceWith('');
+        $('#description').show('fast');
+    } 
+    </script>
+
+<!-- Facebook pixels -->
+<script>
+    fbq('track', 'ViewContent', {
+        'content_name': 'hola',
+        'content_type': 'ecommerce'
+    });
+</script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+        'ecomm_pagetype': 'Product',
+        'ecomm_prodid': 'hola-bcn-barcelona-travel-card',
+        'ecomm_category': 'Hola Barcelona Travel Card',
+        'ecomm_totalvalue': '',
+        'ecomm_subcategory': ''
+    });
+</script> 
+
+<script>
+var itemsPerSlide = 3;
+var totalItems = $('#carousel-example-related .carousel-item').length;
+
+if(totalItems <= itemsPerSlide){
+  $('#carousel-example-related .carousel-control-prev').attr('href','javascript:void(0)');
+  $('#carousel-example-related .carousel-control-next').attr('href','javascript:void(0)');
+  $('#carousel-example-related').carousel({
+      pause: true,
+      interval: false
+  });
+}
+$('#carousel-example-related').on('slide.bs.carousel', function (e) {
+
+    var $e = $(e.relatedTarget);
+    var idx = $e.index();
+    var itemsPerSlide = 3;
+    var totalItems = $('#carousel-example-related .carousel-item').length;
+    if (idx >= totalItems-(itemsPerSlide-1)) {
+        var it = itemsPerSlide - (totalItems - idx);
+        for (var i=0; i<it; i++) {
+            // append slides to end
+            if (e.direction=="left") {
+                $('#carousel-example-related .carousel-item').eq(i).appendTo('.carousel-inner');
+            }
+            else {
+                $('#carousel-example-related .carousel-item').eq(0).appendTo('.carousel-inner');
+            }
+        }
+    }
+});
+
+function hideAvis(code) {
+    $('#avis-'+code).fadeOut();
+    var req = new XMLHttpRequest();
+    req.open('GET', '/api/hide-avis/'+code);
+    req.send();
+}
+
+</script>            
+
+                                
+                    
+
+    </body>
+</html>
